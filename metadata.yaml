@@ -1,0 +1,29 @@
+_repo: Cleopatra-s-NeedleA-History-of-the-London-Obelisk-with-an-Exposition-of-the-Hieroglyphics_37785
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37785-h/images/cover.jpg
+creator:
+  author:
+    agent_name: King, James, Vicar of St. Mary's, Berwick-upon-Tweed
+    gutenberg_agent_id: '39062'
+    url: http://www.gutenberg.org/2009/agents/39062
+description: ''
+gutenberg_issued: '2011-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Cleopatra''s Needle (London, England)'
+- !lcsh 'Obelisks'
+- !lcc 'DT'
+- !lcsh 'Inscriptions, Hieroglyphic'
+title: 'Cleopatra''s Needle
+
+  A History of the London Obelisk, with an Exposition of the Hieroglyphics'
+url: http://www.gutenberg.org/ebooks/37785
